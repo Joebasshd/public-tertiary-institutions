@@ -1,0 +1,1278 @@
+[
+        {
+        "state": "Remote",
+        "institutions": [
+            {
+                "school": "National Open University Of Nigeria",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Abia",
+        "institutions": [
+            {
+                "school": "Michael Okpara University of Agriculture",
+                "location": "Umudike"
+            },
+            {
+                "school": "Abia State University",
+                "location": "Uturu"
+            },
+            {
+                "school": "College of Health Sciences, Aba",
+                "location": ""
+            },
+            {
+                "school": "Abia State polytechnic",
+                "location": ""
+            }
+
+        ]
+    },
+    {
+        "state": "Adamawa",
+        "institutions": [
+            {
+                "school": "Adamawa State polytechnic",
+                "location": "Yola"
+            },
+            {
+                "school": "Adamawa State University",
+                "location": "Mubi"
+            }
+        ]
+    },
+    {
+        "state": "Anambra",
+        "institutions": [
+            {
+                "school": "Anambra State University",
+                "location": "Anambra"
+            },
+            {
+                "school": "Nnamdi Azikiwe University",
+                "location": ""
+            },
+            {
+                "school": "the Federal Polytechnic, Oko",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Akwa Ibom",
+        "institutions": [
+            {
+                "school": "University of Uyo",
+                "location": ""
+            },
+            {
+                "school": "Maritime Academy of Nigeria, Oron",
+                "location": ""
+            },
+            {
+                "school": "Akwa Ibom State University",
+                "location": ""
+            },
+            {
+                "school": "Akwa Ibom State Polytechnic",
+                "location": ""
+            },
+            {
+                "school": "School of Nursing Uyo, Eket, Oron, Ikot Ekpene, Etinan",
+                "location": ""
+            },
+            {
+                "school": "Akwa Ibom State College of Education, Afaha Nsit",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Bauchi",
+        "institutions": [
+            {
+                "school": "Abubakar Tafawa Balewa University",
+                "location": ""
+            },
+            {
+                "school": "Federal Polytechnic, Bauchi",
+                "location": ""
+            },
+            {
+                "school": "College of Education - Azare",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Bayelsa",
+        "institutions": [
+            {
+                "school": "Bayelsa State College of Health Technology",
+                "location": ""
+            },
+            {
+                "school": "Federal Polytechnic, Ekowe",
+                "location": ""
+            },
+            {
+                "school": "Federal University, Otueke",
+                "location": ""
+            },
+            {
+                "school": "Niger Delta University",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Benue",
+        "institutions": [
+            {
+                "school": "Federal University of Agriculture, Makurdi",
+                "location": ""
+            },
+            {
+                "school": "Benue State University, Makurdi",
+                "location": ""
+            },
+            {
+                "school": "University of Mkar, Mkar, Gboko.",
+                "location": ""
+            },
+            {
+                "school": "Benue State Polytechnic, Ugbokolo",
+                "location": ""
+            },
+            {
+                "school": "Fidei polytechnic, Gboko",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education Agasha",
+                "location": ""
+            },
+            {
+                "school": "College of Education Kastina Ala.",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Borno",
+        "institutions": [
+            {
+                "school": "College of Education Waka-Biu",
+                "location": ""
+            },
+            {
+                "school": "Federal Training Centre, Maiduguri",
+                "location": ""
+            },
+            {
+                "school": "Federal University of Maiduguri",
+                "location": ""
+            },
+            {
+                "school": "MAI University Of Maiduguri, Maiduguri",
+                "location": ""
+            },
+            {
+                "school": "School of Health and Technology, Maiduguri",
+                "location": ""
+            },
+            {
+                "school": "School Of Nursing and Midwifery",
+                "location": "Maidugri"
+            }
+        ]
+    },
+    {
+        "state": "Cross River",
+        "institutions": [
+            {
+                "school": "University of Calabar",
+                "location": ""
+            },
+            {
+                "school": "University of Cross River, Calabar",
+                "location": ""
+            },
+            {
+                "school": "Ibrahim Babangida College of Agriculture, Obubra",
+                "location": ""
+            },
+            {
+                "school": "Cross River State College of Education, Akamkpa",
+                "location": ""
+            },
+            {
+                "school": "College of Health Technology, Iboko, Okpoma, Yala",
+                "location": ""
+            },
+                        {
+                "school": "College of Health Technology, Obudu",
+                "location": ""
+            },
+            {
+                "school": "Technical College Ugep",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education, Obudu",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Delta",
+        "institutions": [
+            {
+                "school": "Federal University of Petroleum Resources, Effurun",
+                "location": ""
+            },
+            {
+                "school": "Delta State University",
+                "location": ""
+            },
+            {
+                "school": "Delta State Polytechnic, Ogwashi-Uku",
+                "location": ""
+            },
+            {
+                "school": "Delta State Polytechnic, Otefe-Oghara",
+                "location": ""
+            },
+            {
+                "school": "Delta State Polytechnic, Ozoro",
+                "location": ""
+            },
+            {
+                "school": "College of Education, Agbor",
+                "location": ""
+            },
+            {
+                "school": "College of Education, Warri",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education Technical, Asaba",
+                "location": ""
+            },
+            {
+                "school": "College of Physical Education, Mosogar",
+                "location": ""
+            },
+            {
+                "school": "School of Health Technology, Ughelli",
+                "location": ""
+            },
+            {
+                "school": "Petroleum Training Institute, Effurun",
+                "location": ""
+            },
+            {
+                "school": "Delta State School of Marine Technology, Burutu",
+                "location": ""
+            },
+            {
+                "school": "Nigerian Maritime University, Okerenkoko, Warri",
+                "location": ""
+            },
+            {
+                "school": "State School of Midwifery, Asaba",
+                "location": ""
+            },
+            {
+                "school": "School of Nursing, Agbor",
+                "location": ""
+            },
+            {
+                "school": "School of Nursing, Warri",
+                "location": ""
+            },
+            {
+                "school": "Warri Nigerian Naval School",
+                "location": ""
+            },
+            {
+                "school": "Sapele Nigerian Navy Maritime University, Ibusa",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Ebonyi",
+        "institutions": [
+            {
+                "school": "Ebonyi State University, Abakaliki (EBSU)",
+                "location": ""
+            },
+            {
+                "school": "Federal University Ndufu Alike Ikwo (FUNAI)",
+                "location": ""
+            },
+            {
+                "school": "Ebonyi State College of Education Ikwo (EBSCOEI)",
+                "location": ""
+            },
+            {
+                "school": "Akanu Ibiam Federal Polytechnic, Unwana",
+                "location": ""
+            },
+            {
+                "school": "College of Health Sciences, Ngbo",
+                "location": ""
+            },
+            {
+                "school": "Ezzamgbo and Federal College of Agriculture, Ishiagu.",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Enugu",
+        "institutions": [
+            {
+                "school": "University of Nigeria",
+                "location": "Nsukka"
+            },
+            {
+                "school": "Enugu State University of Science & Technology (ESUT)",
+                "location": ""
+            },
+            {
+                "school": "Institute of Management and Technology (IMT)",
+                "location": ""
+            },
+            {
+                "school": "Federal Cooperative College, Oji River (FCCO)",
+                "location": ""
+            },
+            {
+                "school": "Enugu State College of Education Technical",
+                "location": "Enugu"
+            },
+            {
+                "school": "Federal School of Dental Technology & Therapy",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education, Eha-Amufu",
+                "location": "Enugu"
+            }
+        ]
+    },
+    {
+        "state": "Edo",
+        "institutions": [
+            {
+                "school": "Nigerian Institute Of Computer Science And Professional Studies (NICPS)",
+                "location": ""
+            },
+            {
+                "school": "University Of Benin",
+                "location": "Benin"
+            },
+            {
+                "school": "Bendel State University",
+                "location": "Ekpoma"
+            },
+            {
+                "school": "Benin Technical College",
+                "location": "Benin City"
+            },
+            {
+                "school": "BIU Benson Idahosa University",
+                "location": "Benin City"
+            },
+            {
+                "school": "College of Education Benin",
+                "location": ""
+            },
+            {
+                "school": "Edo State Institute of Technology and Management Usen",
+                "location": ""
+            },
+            {
+                "school": "Federal Polytechnic Auchi",
+                "location": ""
+            },
+            {
+                "school": "State School of Nursing",
+                "location": "Sapele Road, Benin City"
+            }
+        ]
+    },
+    {
+        "state": "Ekiti",
+        "institutions": [
+            {
+                "school": "Afe Babalola University",
+                "location": ""
+            },
+            {
+                "school": "College of Education",
+                "location": "Ikere-Ekiti"
+            },
+            {
+                "school": "Federal Polytechnic",
+                "location": "Ado-Ekiti"
+            },
+            {
+                "school": "Federal University Oye Ekiti",
+                "location": ""
+            },
+            {
+                "school": "Government Technical College",
+                "location": "Ado-Ekiti"
+            },
+            {
+                "school": "School of Nursing",
+                "location": "Ado-Ekiti"
+            },
+            {
+                "school": "UAD University Of Ado-Ekiti",
+                "location": "Ado-Ekiti"
+            },
+            {
+                "school": "University Of Science And Technology",
+                "location": "Ifaki"
+            }
+        ]
+    },
+    {
+        "state": "Gombe",
+        "institutions": [
+            {
+                "school": "College of Administrative and Business Studies (CABS)",
+                "location": "Kumo"
+            },
+            {
+                "school": "Federal University Kashere",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education (Tech) Gombe",
+                "location": ""
+            },
+            {
+                "school": "GSU Gombe State University Tudun Wada",
+                "location": "Tudun Wada"
+            }
+        ]
+    },
+    {
+        "state": "Imo",
+        "institutions": [
+            {
+                "school": "African Institute Of Science And Technology",
+                "location": ""
+            },
+            {
+                "school": "Alvan Ikoku College Of Education",
+                "location": "Owerri"
+            },
+            {
+                "school": "College of Health Science and Technology",
+                "location": "Amaigbo, Nwangele"
+            },
+            {
+                "school": "Federal Polytechnic Nekede Owerri",
+                "location": ""
+            },
+            {
+                "school": "Federal University Of Technology",
+                "location": "Owerri"
+            },
+            {
+                "school": "Imo State Polytechnic",
+                "location": "Umuagwo"
+            },
+            {
+                "school": "Imo State Technological Skills Acquisition Institution",
+                "location": "Orlu"
+            },
+            {
+                "school": "IMSU Imo State University",
+                "location": "Owerri"
+            },
+            {
+                "school": "National Horticultural Research Institute",
+                "location": "Ibadan"
+            },
+            {
+                "school": "Imo State School of Nursing",
+                "location": "Orlu"
+            }
+        ]
+    },
+    {
+        "state": "Jigawa",
+        "institutions": [
+            {
+                "school": "Federal University",
+                "location": "Dutse"
+            },
+            {
+                "school": "Hussaini Adamu Federal Polytechnic Kazaure",
+                "location": ""
+            },
+            {
+                "school": "informatics Institute of Information Technology",
+                "location": "Kazaure"
+            },
+            {
+                "school": "Jigawa State College Of Agriculture",
+                "location": "Hadejia"
+            },
+            {
+                "school": "Jigawa State College of Education",
+                "location": "Gumel, Dutse"
+            },
+            {
+                "school": "Jigawa State Polytechnic",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Kaduna",
+        "institutions": [
+            {
+                "school": "Ahmadu Bello University",
+                "location": "Zaria"
+            },
+            {
+                "school": "Air Force Institute Of Technology",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Federal College of Chemical and Leather Technology",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Federal College Of Forestry Mechanization",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Federal Cooperative College",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Federal School of Statistics",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Federal Training Centre",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Kaduna Polytechnic",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Kaduna State College of Education",
+                "location": "Kaduna"
+            },
+            {
+                "school": "KAS Kaduna State University",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Nigerian College Of Aviation Technology",
+                "location": "Zaria"
+            },
+            {
+                "school": "Nigerian Defence Academy",
+                "location": "Kaduna"
+            },
+            {
+                "school": "Nigerian Institute of Leather and Science Technology",
+                "location": "Samuru"
+            },
+            {
+                "school": "Nuhu Bamalli Polytechnic Zaria",
+                "location": ""
+            },
+            {
+                "school": "School Of Health Technology",
+                "location": "Makarfi"
+            },
+            {
+                "school": "The Federal College of Chemical and Leather Technology",
+                "location": "Zaria"
+            },
+            {
+                "school": "Federal College Of Education",
+                "location": "Zaria"
+            }
+        ]
+    },
+    {
+        "state": "Kano",
+        "institutions": [
+            {
+                "school": "Sa'adatu Rimi College Of Education, Kumbotso",
+                "location": "Kumbotso"
+            },
+            {
+                "school": "College of Art, Science and Remedial Studies",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education (Technical), Bichi",
+                "location": "Bichi"
+            },
+            {
+                "school": "Federal College Of Education, Kano",
+                "location": "Kano"
+            },
+            {
+                "school": "Kano State Polytechnic",
+                "location": "Kano"
+            },
+            {
+                "school": "Nigerian Police Academy, Wudil",
+                "location": "Wudil"
+            }
+        ]
+    },
+    {
+        "state": "Katsina",
+        "institutions": [
+            {
+                "school": "Federal College of Education Katsina",
+                "location": "Katsina"
+            },
+            {
+                "school": "Federal University Dutsin-Ma",
+                "location": ""
+            },
+            {
+                "school": "Hassan Usman Katsina Polytechnic",
+                "location": ""
+            },
+            {
+                "school": "Isah Kaita College of Education Dutsinma",
+                "location": "Dutsinma"
+            },
+            {
+                "school": "Katsina State University, Katsina",
+                "location": "Katsina"
+            },
+            {
+                "school": "School of Health Technology Daura",
+                "location": "Daura"
+            },
+            {
+                "school": "School of Health Technology Kankia",
+                "location": "Kankia"
+            },
+            {
+                "school": "School of Midwifery Malumfashi",
+                "location": "Malumfashi"
+            },
+            {
+                "school": "School of Nursing Katsina",
+                "location": "Katsina"
+            },
+            {
+                "school": "Umaru Musa Yaradua University",
+                "location": ""
+            },
+            {
+                "school": "YBU College of Legal and General Studies Daura",
+                "location": "Daura"
+            }
+        ]
+    },
+    {
+        "state": "Kebbi",
+        "institutions": [
+            {
+                "school": "Adamu Augie College of Education, Argungu",
+                "location": "Argungu"
+            },
+            {
+                "school": "Kebbi State Univ. Of Science & Tech. Aliero",
+                "location": "Aliero"
+            },
+            {
+                "school": "Waziri Umaru Federal Polytechnic",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Kogi",
+        "institutions": [
+            {
+                "school": "ECWA School of Nursing (ECWASON)",
+                "location": "Egbe Yagba"
+            },
+            {
+                "school": "Federal College of Education, Okene",
+                "location": "Okene"
+            },
+            {
+                "school": "Federal University Of Lokoja",
+                "location": "Lokoja"
+            },
+            {
+                "school": "Kogi State College of Education",
+                "location": ""
+            },
+            {
+                "school": "Kogi State College of Nursing",
+                "location": ""
+            },
+            {
+                "school": "Kogi State Polytechnic, Lokoja",
+                "location": "Lokoja"
+            },
+            {
+                "school": "Kogi State University, Anyigba",
+                "location": "Anyigba"
+            },
+            {
+                "school": "The Federal Polytechnic Idah",
+                "location": "Idah"
+            }
+        ]
+    },
+    {
+        "state": "Kwara",
+        "institutions": [
+            {
+                "school": "College of Nursing, Ilorin",
+                "location": "Ilorin"
+            },
+            {
+                "school": "Federal Polytechnic Offa",
+                "location": "Offa"
+            },
+            {
+                "school": "University Of Ilorin, Ilorin",
+                "location": "Ilorin"
+            },
+            {
+                "school": "Kwara State College of Arabic and Islamic Legal Studies",
+                "location": ""
+            },
+            {
+                "school": "Kwara State College of Education",
+                "location": ""
+            },
+            {
+                "school": "Kwara State College of Health and Technology",
+                "location": ""
+            },
+            {
+                "school": "Kwara State Polytechnic, Ilorin",
+                "location": "Ilorin"
+            },
+            {
+                "school": "Kwara State University (KWASU)",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Lagos",
+        "institutions": [
+            {
+                "school": "Adeniran Ogunsanya College Of Education",
+                "location": ""
+            },
+            {
+                "school": "Administrative Staff College of Nigeria (ASCON) Badagry",
+                "location": "Badagry"
+            },
+            {
+                "school": "Aeroland Aviation School",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education (Technical), Akoka",
+                "location": "Akoka"
+            },
+            {
+                "school": "Federal College of Fisheries and Marine Technology",
+                "location": ""
+            },
+            {
+                "school": "Federal College Of Orthopedic Technology, Igbobi",
+                "location": "Igbobi"
+            },
+            {
+                "school": "Federal School of Arts and Sciences, Victoria Island",
+                "location": "Victoria Island"
+            },
+            {
+                "school": "Federal School of Occupational Therapy",
+                "location": ""
+            },
+            {
+                "school": "Federal School of Science",
+                "location": ""
+            },
+            {
+                "school": "Federal Science and Technical College",
+                "location": ""
+            },
+            {
+                "school": "Federal Training Centre, Ikoyi",
+                "location": "Ikoyi"
+            },
+            {
+                "school": "Government Technical College, Ado-Soba",
+                "location": "Ado-Soba"
+            },
+            {
+                "school": "Government Technical College, Ikorodu",
+                "location": "Ikorodu"
+            },
+            {
+                "school": "Lagos University Of Lagos, Lagos",
+                "location": "Lagos"
+            },
+            {
+                "school": "Lagos State College of Health Technology, Yaba",
+                "location": "Yaba"
+            },
+            {
+                "school": "Lagos state polytechnic",
+                "location": ""
+            },
+            {
+                "school": "Lagos University Teaching Hospital",
+                "location": "Lagos"
+            },
+            {
+                "school": "Michael Otedola College of Primary Education",
+                "location": ""
+            },
+            {
+                "school": "Nigerian Army School Of Finance And Administration (NASFA)",
+                "location": ""
+            },
+            {
+                "school": "Nigerian Army School Of Medical Sciences",
+                "location": ""
+            },
+            {
+                "school": "Nigerian Army School of Nursing and Midwifery",
+                "location": ""
+            },
+            {
+                "school": "Nigerian Institute of Journalism Nigerian Institute Of Management (Chartered)",
+                "location": ""
+            },
+            {
+                "school": "Nigerian Institute of Safety Professionals, Ikotun",
+                "location": "Ikotun"
+            },
+            {
+                "school": "Nigerian Law School",
+                "location": ""
+            },
+            {
+                "school": "Yaba College Of Technology",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Nasarawa",
+        "institutions": [
+            {
+                "school": "Federal University of Technology, Lafia",
+                "location": "Lafia"
+            },
+            {
+                "school": "Nasarawa State University, Keffi",
+                "location": "Keffi"
+            },
+            {
+                "school": "College of Education, Akwanga",
+                "location": "Akwanga"
+            },
+            {
+                "school": "College of Agriculture, Lafia",
+                "location": "Lafia"
+            },
+            {
+                "school": "Federal Polytechnic Nasarawa (FEDPOLYNAS)",
+                "location": ""
+            },
+            {
+                "school": "Nasarawa State Polytechnic, Lafia",
+                "location": "Lafia"
+            }
+        ]
+    },
+    {
+        "state": "Niger",
+        "institutions": [
+            {
+                "school": "Federal University of Technology",
+                "location": "Minna"
+            },
+            {
+                "school": "Federal University Of Technology, Minna",
+                "location": "Minna"
+            },
+            {
+                "school": "Federal Polytechnic Bida",
+                "location": "Bida"
+            },
+            {
+                "school": "Niger State Polytechnic, Zungeru",
+                "location": "Zungeru"
+            },
+            {
+                "school": "CEM College Of Education, Minna",
+                "location": "Minna"
+            },
+            {
+                "school": "College for Legal and General Studies, Minna",
+                "location": "Minna"
+            },
+            {
+                "school": "College of Arts and Islamic Legal Studies",
+                "location": "Minna"
+            },
+            {
+                "school": "Federal College of Education, Kontagora",
+                "location": "Kontagora"
+            },
+            {
+                "school": "Federal College of Wildlife Management, New Bussa",
+                "location": "New Bussa"
+            },
+            {
+                "school": "Niger State College of Nursing, Bida",
+                "location": "Bida"
+            },
+            {
+                "school": "Suleiman Barau Technical College, Suleja",
+                "location": "Suleja"
+            }
+        ]
+    },
+    {
+        "state": "Ogun",
+        "institutions": [
+            {
+                "school": "Olabisi Onabanjo University, Ago-Iwoye",
+                "location": "Ago-Iwoye"
+            },
+            {
+                "school": "University Of Agriculture, Abeokuta",
+                "location": "Abeokuta"
+            },
+            {
+                "school": "Federal Polytechnic Ilaro",
+                "location": "Ilaro"
+            },
+            {
+                "school": "Moshood Abiola Polytechnic, Ojere, Abeokuta",
+                "location": "Ojere, Abeokuta"
+            },
+            {
+                "school": "Federal College of Education Abeokuta",
+                "location": "Abeokuta"
+            },
+            {
+                "school": "Ogun State College Of Health Technology",
+                "location": ""
+            },
+            {
+                "school": "Tai Solarin College Of Education, Ijebu-Ode",
+                "location": "Ijebu-Ode"
+            }
+        ]
+    },
+        {
+        "state": "Ondo",
+        "institutions": [
+            {
+                "school": "Adekunle Ajasin University",
+                "location": ""
+            },
+            {
+                "school": "Federal University of Technology, Akure",
+                "location": ""
+            },
+            {
+                "school": "Rufus Giwa Polytechnic",
+                "location": ""
+            },
+            {
+                "school": "Ondo State University of Science and Technology",
+                "location": ""
+            },
+            {
+                "school": "Adeyemi College of Education, Ondo.",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Osun",
+        "institutions": [
+            {
+                "school": "Ladoke Akintola University Of Technology Ogbomoso",
+                "location": ""
+            },
+            {
+                "school": "Obafemi Awolowo University, Ile-Ife",
+                "location": ""
+            },
+            {
+                "school": "Osun State University, Osogbo",
+                "location": ""
+            },
+            {
+                "school": "Federal Polytechnic Ede",
+                "location": ""
+            },
+            {
+                "school": "Osun State Polytechnic, Iree",
+                "location": ""
+            },
+            {
+                "school": "The Polytechnic, Ile-Ife",
+                "location": ""
+            },
+            {
+                "school": "Osun State College of Technology, Esa oke",
+                "location": ""
+            },
+            {
+                "school": "College of Arts and Science, Ile Ife",
+                "location": ""
+            },
+            {
+                "school": "OSC Osun State College Of Education Ilesa, Ilesa",
+                "location": ""
+            },
+            {
+                "school": "Osun State College of Education, Ila-Orangun",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Oyo",
+        "institutions": [
+            {
+                "school": "University Of Ibadan, Ibadan",
+                "location": "Ibadan"
+            },
+            {
+                "school": "The Polytechnic, Ibadan",
+                "location": "Ibadan"
+            },
+            {
+                "school": "Federal College of Agriculture, Moor Plantation, Ibadan",
+                "location": "Ibadan"
+            },
+            {
+                "school": "Federal College Of Animal Production and Health",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education",
+                "location": "Ibadan"
+            },
+            {
+                "school": "Federal College of Forestry",
+                "location": ""
+            },
+            {
+                "school": "Mufutau Lanihun College of Education, Ibadan",
+                "location": "Ibadan"
+            },
+            {
+                "school": "Oyo State College of Education",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Plateau",
+        "institutions": [
+            {
+                "school": "University Of Jos, Jos",
+                "location": "Jos"
+            },
+            {
+                "school": "Plateau State University, Bokkos",
+                "location": "Bokkos"
+            },
+            {
+                "school": "Plateau State Polytechnic",
+                "location": ""
+            },
+            {
+                "school": "College of Education, Jos",
+                "location": "Jos"
+            },
+            {
+                "school": "College of Health Technology, Zawan",
+                "location": "Zawan"
+            },
+            {
+                "school": "Federal College of Education, Pankshin",
+                "location": "Pankshin"
+            }
+        ]
+    },
+    {
+        "state": "Rivers",
+        "institutions": [
+            {
+                "school": "University Of Port-Harcourt, Port-Harcourt",
+                "location": "Port-Harcourt"
+            },
+            {
+                "school": "Rivers State University Of Technology, Port-Harcourt",
+                "location": "Port-Harcourt"
+            },
+            {
+                "school": "University of Science and Technology, Diobu, Port Harcourt",
+                "location": "Port Harcourt"
+            },
+            {
+                "school": "Rivers State polytechnic",
+                "location": ""
+            },
+            {
+                "school": "Federal College of Education (Technical), Omoku",
+                "location": "Omoku"
+            },
+            {
+                "school": "College Of Education, Port-Harcourt",
+                "location": "Port-Harcourt"
+            },
+            {
+                "school": "Rivers State College Of Arts",
+                "location": ""
+            },
+            {
+                "school": "Rivers State College of Health Science and Technology",
+                "location": ""
+            }
+        ]
+    },
+    {
+        "state": "Sokoto",
+        "institutions": [
+            {
+                "school": "Sokoto State University",
+                "location": "Sokoto"
+            },
+            {
+                "school": "Usmanu Danfodio University, Sokoto",
+                "location": "Sokoto"
+            },
+            {
+                "school": "Usmanu Danfodiyo University Teaching Hospital School Of Nursing (UDUTHSON)",
+                "location": "Sokoto"
+            },
+            {
+                "school": "Sokoto State Polytechnic",
+                "location": "Sokoto"
+            },
+            {
+                "school": "Haliru Binji College Of Art and Science",
+                "location": "Sokoto"
+            },
+            {
+                "school": "Sokoto Teachers' College",
+                "location": "Sokoto"
+            }
+        ]
+    },
+    {
+        "state": "Taraba",
+        "institutions": [
+            {
+                "school": "Taraba State University, Jalingo",
+                "location": "Taraba"
+            },
+            {
+                "school": "Taraba State Polytechnic, Jalingo",
+                "location": "Taraba"
+            },
+            {
+                "school": "Federal Science and Technical College",
+                "location": "Taraba"
+            },
+            {
+                "school": "Taraba State College of Agriculture, Jalingo",
+                "location": "Taraba"
+            }
+        ]
+    },
+    {
+        "state": "Yobe",
+        "institutions": [
+            {
+                "school": "Buka Abba Ibrahim University, Damaturu",
+                "location": "Yobe"
+            },
+            {
+                "school": "Federal Polytechnic Damaturu",
+                "location": "Yobe"
+            },
+            {
+                "school": "College of Administrative and Business Studies, Potiskum",
+                "location": "Yobe"
+            },
+            {
+                "school": "College of Education, Gashua",
+                "location": "Yobe"
+            }
+        ]
+    },
+    {
+        "state": "Zamfara",
+        "institutions": [
+            {
+                "school": "Federal Polytechnic Kaura Namoda",
+                "location": "Zamfara"
+            },
+            {
+                "school": "Kaura Knamoda Polytechnic",
+                "location": "Zamfara"
+            },
+            {
+                "school": "Federal University Gusau, Zamfara State",
+                "location": "Zamfara"
+            }
+        ]
+    },
+    {
+        "state": "Abuja",
+        "institutions": [
+            {
+                "school": "University of Abuja",
+                "location": "Abuja"
+            },
+            {
+                "school": "Federal College of Education, Zuba",
+                "location": "Abuja"
+            },
+            {
+                "school":"Federal Capital Territory (FCT) School of Nursing",
+                "location":"Abuja"
+            }
+        ]
+    }
+]
+
